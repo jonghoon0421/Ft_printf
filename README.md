@@ -6,7 +6,7 @@
 **To execute:**
 * `ft_printf("format", arg1, arg2, ...)`
   * `Conversions`
-    1. s, S, p, d, D, i, o, O, u, U, x, X, c, C
+    * `s, S, p, d, D, i, o, O, u, U, x, X, c, C`
   * `Flags`
     1. 
   
