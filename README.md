@@ -8,7 +8,7 @@
   * `Conversions`
     * `s, S, p, d, D, i, o, O, u, U, x, X, c, C`
   * `Flags`
-    * `#, 0, -, +, and space`
+    * `#, 0, -, +, *, and space`
   * `Length modifier`
   	* `hh, h, l, ll, j, z`
   * `Minimum field-width and precision`
