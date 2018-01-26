@@ -11,5 +11,5 @@
     * `#, 0, -, +, and space`
   * `Length modifier`
   	* `hh, h, l, ll, j, z`
-	* `Minimum field-width and precision`
-	* `%% managed`
+  * `Minimum field-width and precision`
+  * `%% managed`
